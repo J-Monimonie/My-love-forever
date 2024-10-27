@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>♥Whale on the moon❤</title>
+  <link rel="stylesheet" href="Us.css">
+
+  <!-- FONTS -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<!--导航栏-->
+<div class="main">
+    <div class="main-nav">
+      <div class="BBlogo">
+        <img src="images/BB头像.jpg" alt="">
+        <span>♥亲亲bb生日快乐♥ </span>
+      </div>
+      <ul>
+        <li><a href="./index.html">生日快乐</a></li>
+        <li><a href="./About BB.html">关于bb</a></li>
+        <li><a href="./Us.html">点点滴滴</a></li>
+        <li><a href="./comment.html">留言板</a></li>
+        <li><a href="./Login.html">登录</a></li>
+      </ul>
+      <div class="nav-box"></div>
+    </div>
+
+<!-- 照片 -->
+<div class="shell">
+  <a href="Us01.html" class="box">
+      <img src="pet01.jpg" alt="电子宠物">
+      <span>电子宠物</span>
+  </a>
+  <a href="Us02.html" class="box">
+      <img src="Weixin Image_20231210154217.jpg" alt="旅游">
+      <span>旅游</span>
+  </a>
+  <a href="Us03.html" class="box">
+      <img src="bb_with_flower.jpg" alt="贴贴">
+      <span>贴贴</span>
+  </a>
+  <a href="Us04.html" class="box">
+      <img src="tapis.jpg" alt="吃吃吃">
+      <span>吃吃吃</span>
+  </a>
+</div>
+
+</body>
+</html>
